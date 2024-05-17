@@ -1,3 +1,3 @@
-# Arrow Functions
+# Arrow Functions Playground
 
-Playground to test arrow functions in the console.
+## This is a playground to test arrow functions in the console.
